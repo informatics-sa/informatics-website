@@ -8,10 +8,12 @@ vendor/bundle/
 lib/Database/
 
 # Build artifacts
+.github/workflows/release_push.yml
 root/*
 lib
 !root/img
 !root/data
+root/data/index.md
 !root/files
 build.py
 helper.py

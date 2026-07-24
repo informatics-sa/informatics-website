@@ -68,6 +68,7 @@
         },
         "jboi": {
             "exams": ["intensive_1_exam_2_2026", "intensive_2_exam_1_2026", "intensive_2_exam_2_2026", "intensive_2_exam_3_2026"],
+            "participants_count": 6,
             "min_birthdate": "2010-01-01"
         },
         "egoi": {

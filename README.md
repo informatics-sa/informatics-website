@@ -30,6 +30,11 @@ bundle install
 python prebuild.py && python build.py && bundle exec jekyll serve -s ./root
 ```
 
+If you have [WebsiteBuilder](https://github.com/informatics-sa/WebsiteBuilder) locally you can do:
+```sh
+python prebuild.py --path ../WebsiteBuilder && python build.py && bundle exec jekyll serve -s ./root
+```
+
 ## Maintainers
 This website needs people who maintain the data up-to-date.
 
