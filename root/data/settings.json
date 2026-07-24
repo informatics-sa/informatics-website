@@ -7,5 +7,7 @@
     "codeforces": true,
     "enable_exams_page": true,
     "enable_members_index": true,
-    "enable_image_library": true
+    "enable_image_library": true,
+    "enable_stats_page": true,
+    "enable_compare_page": true
 }
