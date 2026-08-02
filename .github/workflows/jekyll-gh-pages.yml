@@ -44,8 +44,8 @@ jobs:
       - name: Get secret data
         run: |
           GIT_SSH_COMMAND="ssh -i .github/SIT_DATABASE_KEY_ED25519" git clone git@github.com:informatics-sa/Database.git lib/Database        
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install dependencies # TODO: Should be replaced by requirements.txt
+        run: pip install requests semver
       - name: Run prebuild.py script
         run: python prebuild.py
       - name: Run build.py script
