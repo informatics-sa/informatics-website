@@ -33,3 +33,9 @@ Hidden public archive, currently used to archive problems.
 - Day 2: P4: Atena: [Arabic](/files/stelele/2025/day2/p1_ar.pdf), [English](/files/stelele/2025/day2/p1.pdf), [Files](/files/stelele/2025/day2/atena.zip)
 - Day 2: P5: Caterpillar: [Arabic](/files/stelele/2025/day2/p2_ar.pdf), [English](/files/stelele/2025/day2/p2.pdf)
 - Day 2: P6: Imposters: [Arabic](/files/stelele/2025/day2/p3_ar.pdf), [English](/files/stelele/2025/day2/p3.pdf)
+
+## NAOI 2026
+- [Gaberoun](/files/naoi/gaberoun.en.pdf)
+- [Roadmap](/files/naoi/roadmap.en.pdf)
+- [Leptis](/files/naoi/leptis.en.pdf)
+- [Cyrene](/files/naoi/cyrene.en.pdf)
