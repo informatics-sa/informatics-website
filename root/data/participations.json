@@ -27,9 +27,9 @@
         "name": "ioi", "year": 2026, "start": "2026-08-09", "end": "2026-08-16", "country": "uz",
         "website": "https://ioi2026.uz",
         "participants": {
-            "455": null,
-            "501": null,
-            "404": null,
+            "455": "bronze",
+            "501": "silver",
+            "404": "hm",
             "612": null
         }
     },
