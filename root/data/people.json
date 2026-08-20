@@ -13,7 +13,7 @@
         "enname": "Fares Almatawah",
         "graduation": 2028,
         "codeforces": "Fares77",
-        "level": 1
+        "level": -2,
     },
     {
         "iid": 703,
@@ -111,7 +111,7 @@
         "enname": "Tamim Alzahrani",
         "graduation": 2028,
         "codeforces": "Azzahrani",
-        "level": 1
+        "level": -2
     },
     {
         "iid": 715,
@@ -136,7 +136,7 @@
         "enname": "Abdullah Aljuatil",
         "graduation": 2028,
         "codeforces": "Abdullah-Al-jutail",
-        "level": 1
+        "level": -2
     },
     {
         "iid": 718,
