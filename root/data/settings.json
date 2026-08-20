@@ -1,5 +1,7 @@
 {
-    "version": "1.0.0",
+    "website_builder": {
+        "branch": "main"
+    },
     "logo": "soi.png",
     "icon": "soi.png",
     "home_image": "naser_md_thinking.jpg",
