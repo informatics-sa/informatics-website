@@ -13,7 +13,7 @@
         "enname": "Fares Almatawah",
         "graduation": 2028,
         "codeforces": "Fares77",
-        "level": -2,
+        "level": -2
     },
     {
         "iid": 703,
@@ -144,7 +144,7 @@
         "enname": "Khaled Alsharif",
         "graduation": 2029,
         "codeforces": "theflipcat",
-        "level": 1
+        "level": -2
     },
     {
         "iid": 719,
@@ -319,7 +319,7 @@
         "enname": "Sultan Alaiban",
         "graduation": 2026,
         "codeforces": "Sul_A.",
-        "level": 4,
+        "level": -1,
         "email": "sultan@sainformatics.org"
     },
     {
@@ -338,7 +338,7 @@
         "enname": "Mohammed Alasmari",
         "graduation": 2026,
         "codeforces": "m5588ohammed",
-        "level": 4
+        "level": -1
     },
     {
         "iid": 213,
@@ -375,7 +375,7 @@
         "enname": "Abdulrahman Alghamdi",
         "graduation": 2026,
         "codeforces": "ibsha",
-        "level": 3
+        "level": -1
     },
     {
         "iid": 453,
@@ -496,7 +496,7 @@
         "enname": "Ali Abdulhadi Alsalman",
         "graduation": 2026,
         "codeforces": "AliMark71",
-        "level": 3,
+        "level": -1,
         "email": "ali@sainformatics.org"
     },
     {
