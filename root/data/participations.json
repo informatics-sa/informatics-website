@@ -2,18 +2,33 @@
     {
         "name": "jboi", "year": 2026, "start": "2026-09-22", "end": "2026-09-28", "country": "ba",
         "website": null,
+        "info": {
+            "contestants": 55
+        },
+        "deputy_leader": "almothana",
+        "leader": "esraa",
         "participants": {
-            "508": null,
-            "602": null,
-            "604": null,
-            "611": null,
-            "510": null,
-            "608": null
+            "508": "silver",
+            "602": "silver",
+            "604": "silver",
+            "611": "bronze",
+            "510": "silver",
+            "608": "bronze"
+        },
+        "scores": {
+            "508": [56, 0, 16.2, 100, 100, 100],
+            "602": [56, 0, 70, 100, 100, 35],
+            "604": [56, 5, 30.2, 100, 53, 92],
+            "611": [0, 5, 30.2, 100, 60, 35],
+            "510": [0, 5, 100, 100, 31, 100],
+            "608": [0, 0, 2.4, 81, 5, 92]
         }
     },
     {
         "name": "boi", "year": 2026, "start": "2026-09-14", "end": "2026-09-20", "country": "al",
         "website": "https://boi2026.al",
+        "deputy_leader": "muaath",
+        "leader": "esraa",
         "participants": {
             "404": "silver",
             "508": "bronze",
@@ -34,6 +49,8 @@
     {
         "name": "ioi", "year": 2026, "start": "2026-08-09", "end": "2026-08-16", "country": "uz",
         "website": "https://ioi2026.uz",
+        "deputy_leader": "abdulaziz",
+        "leader": "esraa",
         "participants": {
             "455": "bronze",
             "501": "silver",
@@ -50,6 +67,8 @@
     {
         "name": "egoi", "year": 2026, "start": "2026-05-12", "end": "2026-05-18", "country": "it",
         "website": "https://egoi2026.it",
+        "deputy_leader": "atheer",
+        "leader": "esraa",
         "participants": {
             "608": "bronze",
             "615": "hm",
@@ -86,6 +105,8 @@
     {
         "name": "naoi", "year": 2026, "start": "2026-04-18", "end": "2026-04-18", "country": "ly", "online": true,
         "website": "https://naoi2026.ly",
+        "deputy_leader": "muaath",
+        "leader": "esraa",
         "participants": {
             "404": "gold",
             "501": "silver",
@@ -106,6 +127,8 @@
     {
         "name": "boi", "year": 2025, "start": "2025-09-25", "end": "2025-10-01", "country": "it",
         "website": "https://boi2025.anpc.it",
+        "deputy_leader": "abdulaziz",
+        "leader": "esraa",
         "participants": {
             "501": "bronze",
             "455": "bronze",
@@ -126,6 +149,8 @@
     {
         "name": "ejoi", "year": 2025, "start": "2025-08-29", "end": "2025-09-04", "country": "bg",
         "website": "https://2025.ejoi.org",
+        "deputy_leader": "fares",
+        "leader": "esraa",
         "participants": {
             "508": "bronze",
             "602": null,
@@ -142,6 +167,8 @@
     {
         "name": "ioi", "year": 2025, "start": "2025-07-27", "end": "2025-08-03", "country": "bo",
         "website": "https://ioi2025.bo/",
+        "deputy_leader": "almothana",
+        "leader": "akram",
         "participants": {
             "501": "bronze",
             "455": "hm",
@@ -158,6 +185,8 @@
     {
         "name": "egoi", "year": 2025, "start": "2025-07-14", "end": "2025-07-20", "country": "de",
         "website": "https://www.egoi2025.de/",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "213": "bronze",
             "516": null,
@@ -194,6 +223,7 @@
     {
         "name": "naoi", "year": 2025, "start": "2025-04-19", "end": "2025-04-19", "country": "dz", "online": true,
         "website": "https://naoi2025.algerianoi.com",
+        "leader": "esraa",
         "participants": {
             "304": "silver",
             "501": "silver",
@@ -214,6 +244,8 @@
     {
         "name": "boi", "year": 2024, "start": "2024-09-20", "end": "2024-09-26", "country": "mk",
         "website": "https://boi2024.cs.org.mk",
+        "deputy_leader": "abdulaziz",
+        "leader": "esraa",
         "participants": {
             "455": null,
             "304": "bronze",
@@ -234,6 +266,8 @@
     {
         "name": "ioi", "year": 2024, "start": "2024-09-01", "end": "2024-09-08", "country": "eg",
         "website": "https://ioi2024.eg",
+        "deputy_leader": "abdulmohsen",
+        "leader": "akram",
         "participants": {
             "201": "bronze",
             "353": "bronze",
@@ -250,6 +284,8 @@
     {
         "name": "egoi", "year": 2024, "start": "2024-07-21", "end": "2024-07-27", "country": "nl",
         "website": "https://egoi2024.nl",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "213": null,
             "461": null,
@@ -290,6 +326,8 @@
     {
         "name": "jboi", "year": 2023, "start": "2023-11-25", "end": "2023-11-28", "country": "mk", "online": true,
         "website": "https://jboi2023.cs.org.mk",
+        "deputy_leader": "abdulaziz",
+        "leader": "esraa",
         "participants": {
             "407": "bronze",
             "404": "hm",
@@ -306,6 +344,8 @@
     {
         "name": "boi", "year": 2023, "start": "2023-10-29", "end": "2023-11-03", "country": "si",
         "website": "https://boi2023.zotks.si",
+        "deputy_leader": "almothana",
+        "leader": "esraa",
         "participants": {
             "201": "bronze",
             "353": "hm",
@@ -326,6 +366,8 @@
     {
         "name": "ioi", "year": 2023, "start": "2023-08-07", "end": "2023-08-15", "country": "hu",
         "website": "https://ioi2023.hu",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "108": "bronze",
             "356": "hm",
@@ -342,6 +384,8 @@
     {
         "name": "egoi", "year": 2023, "start": "2023-07-15", "end": "2023-07-21", "country": "se",
         "website": "https://egoi23.se",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "206": "silver",
             "204": "bronze",
@@ -378,6 +422,8 @@
     {
         "name": "egoi", "year": 2022, "start": "2022-10-16", "end": "2022-10-23", "country": "tr",
         "website": "https://egoi2022.tubitak.gov.tr",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "206": "silver",
             "204": "bronze",
@@ -394,6 +440,8 @@
     {
         "name": "ioi", "year": 2022, "start": "2022-08-07", "end": "2022-08-15", "country": "id",
         "website": "https://ioi2022.id",
+        "deputy_leader": "esraa",
+        "leader": "akram",
         "participants": {
             "101": "bronze",
             "105": null,
@@ -430,6 +478,8 @@
     {
         "name": "ioi", "year": 2021, "start": "2021-06-19", "end": "2021-06-25", "country": "sg", "online": true,
         "website": "https://ioi2021.sg",
+        "deputy_leader": "esraa",
+        "leader": "sultan",
         "participants": {
             "106": "bronze",
             "111": null,
@@ -490,6 +540,8 @@
     {
         "name": "ioi", "year": 2020, "start": "2020-06-19", "end": "2020-06-25", "country": "sg", "online": true,
         "website": "https://ioi2020.sg",
+        "deputy_leader": "alyazeed",
+        "leader": "sultan",
         "participants": {
             "106": null,
             "171": null,
@@ -506,6 +558,8 @@
     {
         "name": "ioi", "year": 2019, "start": "2019-06-19", "end": "2019-06-25", "country": "az",
         "website": "https://stats.ioinformatics.org/olympiads/2019",
+        "deputy_leader": "alyazeed",
+        "leader": "sultan",
         "participants": {
             "106": "bronze",
             "174": null,
