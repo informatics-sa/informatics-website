@@ -34,6 +34,16 @@ Hidden public archive, currently used to archive problems.
 - Day 2: P5: Caterpillar: [Arabic](/files/stelele/2025/day2/p2_ar.pdf), [English](/files/stelele/2025/day2/p2.pdf)
 - Day 2: P6: Imposters: [Arabic](/files/stelele/2025/day2/p3_ar.pdf), [English](/files/stelele/2025/day2/p3.pdf)
 
+### 2026
+- Day 1:
+    - P1: Security: [English](/files/stelele/2026/day1/p1.pdf)
+    - P2: Clone: [English](/files/stelele/2026/day1/p2.pdf)
+    - P3: Tree: [English](/files/stelele/2026/day1/p3.pdf)
+- Day 2:
+    - P1: Jugglable: [Arabic](/files/stelele/2026/day2/p1_ar.pdf), [English](/files/stelele/2026/day2/p1.pdf)
+    - P2: Underrated: [Arabic](/files/stelele/2026/day2/p2_ar.pdf), [English](/files/stelele/2026/day2/p2.pdf)
+    - P3: LIS: [Arabic](/files/stelele/2026/day2/p3_ar.pdf), [English](/files/stelele/2026/day2/p3.pdf)
+
 ## NAOI 2026
 - [Gaberoun](/files/naoi/gaberoun.en.pdf)
 - [Roadmap](/files/naoi/roadmap.en.pdf)
