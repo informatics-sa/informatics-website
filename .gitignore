@@ -8,7 +8,7 @@ vendor/bundle/
 lib/Database/
 
 # Build artifacts
-.github/workflows/release_push.yml
+.resolved-builder
 root/*
 lib
 !root/img
