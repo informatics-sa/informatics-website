@@ -46,6 +46,10 @@ def download_file(file: dict, dest_dir: str) -> None:
     print(f"[COPY] {file['path']}")
 
 
+def emit_resolved_builder(description: str):
+    with open(".resolved-builder", "w") as file:
+        file.write(description)
+
 def version_requirement():
     def _assert(cond: bool, message: str):
         if not cond:
@@ -137,19 +141,24 @@ def resolve_dependency() -> Optional[str]:
             tags = res.json()
             tags = dict(map(lambda tag: (tag['name'], tag), tags))
 
-            return tags[selected_release['tag_name']]['commit']['sha']
+            rev = tags[selected_release['tag_name']]['commit']['sha']
+            emit_resolved_builder(f"release '{selected_release['name']}'[{selected_release['tag_name']}] ({rev})")
+            return rev
 
         case "branch":
             res = requests.get(f"{api_base_url}/branches/{requirement['branch']}")
             if not res.ok: return None
 
-            return res.json()['commit']['sha']
+            rev = res.json()['commit']['sha']
+            emit_resolved_builder(f"branch '{requirement['branch']}' ({rev})")
+            return rev
 
         case "commit":
             res = requests.get(f"{api_base_url}/commits/{requirement['revision']}")
             if not res.ok: return None
 
-            return requirement["revision"]
+            emit_resolved_builder(f"commit ({requirement['revision']})")
+            return requirement['revision']
 
 
 
@@ -159,6 +168,7 @@ def main():
     print(f"[INFO] Destination: {dest_dir}")
 
     if args.path:
+        emit_resolved_builder("[local]")
         print("[INFO] skipping dependency resolution; using local WebsiteBuilder.")
         print(f"[INFO] Listing files from {args.path} [local] ...")
 
@@ -177,7 +187,7 @@ def main():
             print(f"[ERROR] dependency resolution failed; {failure_message}.")
             exit(1)
 
-        print(f"[INFO] Listing files from {GITHUB_REPO} [github] ...")
+        print(f"[INFO] Listing files from {GITHUB_REPO} [github ({revision})] ...")
 
         files = list_files(ref = revision)
         print(f"[INFO] Found {len(files)} file(s)\n")
