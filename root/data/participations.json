@@ -1,5 +1,12 @@
 [
     {
+        "name": "ioi", "year": 2027, "start": "2026-09-12", "end": "2026-09-17", "country": "de",
+        "website": null,
+        "deputy_leader": null,
+        "leader": null,
+        "participants": {}
+    },
+    {
         "name": "jboi", "year": 2026, "start": "2026-09-22", "end": "2026-09-28", "country": "ba",
         "website": null,
         "info": {
