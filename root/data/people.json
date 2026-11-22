@@ -189,7 +189,7 @@
         "enname": "Abdullah Alruwais",
         "graduation": 2028,
         "codeforces": "Abmr59",
-        "level": 1,
+        "level": 2,
         "soid": "4fc991c6-8ba9-4cce-871a-bc411084d5a4"
     },
     {
@@ -207,7 +207,7 @@
         "enname": "Ali Hussain Alsalman",
         "graduation": 2028,
         "codeforces": "Ali.cpp",
-        "level": 1,
+        "level": 2,
         "soid": "f0a276c4-f433-4da3-9165-eaae0b916a64"
     },
     {
@@ -216,7 +216,7 @@
         "enname": "Ibrahim Binhafeez",
         "graduation": 2030,
         "codeforces": "ibrahimhafeez",
-        "level": 1,
+        "level": 2,
         "soid": "9f3507d2-594f-46ca-8cdd-0a4b51a6adae"
     },
     {
@@ -234,7 +234,7 @@
         "enname": "Rayan Alhamad",
         "graduation": 2028,
         "codeforces": "RayBolt",
-        "level": 1,
+        "level": 2,
         "soid": "45be350f-f95f-426a-bdcb-c15b01aee09d"
     },
     {
@@ -243,7 +243,7 @@
         "enname": "Hamza Albrahim",
         "graduation": 2028,
         "codeforces": "Hamza_Albrahim",
-        "level": 1,
+        "level": 2,
         "soid": "c7062709-ec52-4909-aef1-b58bf0474a25"
     },
     {
@@ -261,7 +261,7 @@
         "enname": "Leen Alsaleb",
         "graduation": 2029,
         "codeforces": "Leen_Alsaleb",
-        "level": 1,
+        "level": 2,
         "female": true,
         "soid": "627d74d1-3fef-4caf-bb14-2f7ddab175b3"
     },
@@ -271,7 +271,7 @@
         "enname": "Maryam Al Jawad",
         "graduation": 2028,
         "codeforces": "PinkyMe2",
-        "level": 1,
+        "level": 2,
         "female": true,
         "soid": "23cf9e00-3014-47cc-8cfa-294e229ee656"
     },
@@ -326,7 +326,7 @@
         "enname": "Juana Aljohani",
         "graduation": 2029,
         "codeforces": "jujusniper314",
-        "level": 1,
+        "level": 2,
         "female": true,
         "soid": "62700a3c-41d2-4b54-ad1d-457f245af094"
     },
@@ -354,7 +354,7 @@
         "enname": "Mohammed Alaswad",
         "graduation": 2029,
         "codeforces": "MohammedAlaswad",
-        "level": 1,
+        "level": 2,
         "soid": "afe6be43-28b5-419f-9dfd-2f686daa8f9d"
     },
     {
@@ -363,7 +363,7 @@
         "enname": "Abdulaziz Alsagier",
         "graduation": 2029,
         "codeforces": "aziz.alsagier",
-        "level": 1,
+        "level": 2,
         "soid": "a32a1bb7-9173-423a-9fc3-135f79ef7565"
     },
     {
@@ -372,7 +372,7 @@
         "enname": "Nawaf Alharbi",
         "graduation": 2028,
         "codeforces": "onlynawaf",
-        "level": 1,
+        "level": 2,
         "soid": "33263819-6db3-4775-8cd4-0f728ce8ae9e"
     },
     {
@@ -408,7 +408,7 @@
         "enname": "Elaf Alqahtani",
         "graduation": 2028,
         "codeforces": "Elaf_Q",
-        "level": 1,
+        "level": 2,
         "female": true,
         "soid": "c1846304-a51b-4661-9064-785d46e697df"
     },
@@ -551,7 +551,7 @@
         "enname": "Mohammad Bashkail",
         "graduation": 2027,
         "codeforces": "mohammadyay",
-        "level": 3,
+        "level": 4,
         "soid": "b04065fe-6b91-42b3-bf8b-1c1e1f4f9a05"
     },
     {
@@ -812,7 +812,7 @@
         "enname": "Ziyad Alharbi",
         "graduation": 2027,
         "codeforces": "ziyad_alharbi09",
-        "level": 3,
+        "level": 4,
         "soid": "6d3fd2e7-874a-4e28-bf49-62e8d3cb3311"
     },
     {
@@ -892,7 +892,7 @@
         "enname": "Eyad Alkhalifa",
         "graduation": 2028,
         "codeforces": "Eyadooz1",
-        "level": 3,
+        "level": 4,
         "soid": "f6ba62de-44c5-41ba-8972-3004b3c63d03"
     },
     {
@@ -912,7 +912,7 @@
         "enname": "Fares Alraddadi",
         "graduation": 2028,
         "codeforces": "Fares_alraddadi",
-        "level": 3,
+        "level": 4,
         "soid": "d68d9574-c932-4fe3-a3f5-095db443299b"
     },
     {
@@ -1037,7 +1037,7 @@
         "enname": "Hashim Basuni",
         "graduation": 2028,
         "codeforces": "Hashim_Bas",
-        "level": 2,
+        "level": 3,
         "soid": "e6682f57-c507-4699-881f-fd5f0d79cb62"
     },
     {
@@ -1058,7 +1058,7 @@
         "enname": "Alreem Almutawa",
         "graduation": 2028,
         "codeforces": "Al_reem_Al_mutawa",
-        "level": 2,
+        "level": 3,
         "female": true,
         "soid": "a97ae8f6-88ee-4e06-9ab4-ee9d860157c7"
     },
@@ -1079,7 +1079,7 @@
         "enname": "Ahmad Alhussain",
         "graduation": 2028,
         "codeforces": "AhmadAlhussain",
-        "level": 2,
+        "level": 3,
         "soid": "f2b8d4fa-2516-4e01-b043-7286b78dcd27"
     },
     {
@@ -1089,7 +1089,7 @@
         "enname": "Mohammed Albattat",
         "graduation": 2028,
         "codeforces": "moha1111",
-        "level": 2,
+        "level": 3,
         "soid": "591452cd-2cbd-42dd-83b2-11485df56f36"
     },
     {
@@ -1109,7 +1109,7 @@
         "enname": "Ayat Alkhalifah",
         "graduation": 2029,
         "codeforces": "ayat.alkhalifah",
-        "level": 2,
+        "level": 3,
         "female": true,
         "soid": "b7aa2853-ff15-481f-afda-c76e496f6d3e"
     },
@@ -1130,7 +1130,7 @@
         "enname": "Mohammad Aladaili",
         "graduation": 2029,
         "codeforces": "Mohammad_Aladaili",
-        "level": -2,
+        "level": 3,
         "soid": "d9c05c3b-30a1-46f2-b8d9-85eda1c4105b"
     },
     {
@@ -1151,7 +1151,7 @@
         "enname": "Altayeb Alakhdhari",
         "graduation": 2027,
         "codeforces": "altayeb_132",
-        "level": 2,
+        "level": 4,
         "soid": "120cf939-ce0d-4186-8752-8f551486276f"
     },
     {
@@ -1161,7 +1161,7 @@
         "enname": "Ahmad Alturki",
         "graduation": 2028,
         "codeforces": "A_turki",
-        "level": 2,
+        "level": 3,
         "soid": "d57bc93a-993e-4e6c-a156-442ee5859646"
     },
     {
@@ -1171,7 +1171,7 @@
         "enname": "Hassan Sultan",
         "graduation": 2028,
         "codeforces": "hmms127",
-        "level": 2,
+        "level": 3,
         "soid": "104ca96b-218e-42cb-ba98-e574a7ef650e"
     },
     {
